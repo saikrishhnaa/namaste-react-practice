@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react-practice2",
+  "version": "1.0.0",
+  "description": "This is Namaste React Practice by Saikrishna Makam",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikrishhnaa/namaste-react-practice.git"
+  },
+  "keywords": [],
+  "author": "Saikrishna Makam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikrishhnaa/namaste-react-practice/issues"
+  },
+  "homepage": "https://github.com/saikrishhnaa/namaste-react-practice#readme",
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "browsersList": [
+    "last 2 versions"
+  ]
+}
